@@ -18,7 +18,9 @@ print ("Dados tus valores la función a tratar es:", a ,"+", b ,"+",c)
 
 
 form_g= ((-b+((b**2-(4*a)*c ))*1/2)/(2*a))
+form_g2= ((-b-((b**2-(4*a)*c ))*1/2)/(2*a))
 
-print("El resultado de la formula general es:",form_g)
+print("El resultado de la formula general postiva es:",form_g)
+print("El resultado de la formula general negativa es:",form_g2)
 
 
